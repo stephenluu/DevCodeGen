@@ -34,7 +34,7 @@ public class Dog {
 }		
 ```
 
- ## output
+## output
 ```
 User user = new User();
 user.setId(1);
