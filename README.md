@@ -7,7 +7,32 @@ generate some code for daily development in Java
 ## demo
 
 ### input
-`User.java`
+```
+public class User {
+	private int id;
+	private String username;
+	private long longF;
+	private short shortF;
+	private boolean booleanF;
+	private double doubleF;
+	private BigDecimal bigDecimalF;
+	private Date dateF;
+	private Dog dog;
+	private String username2;
+}
+
+public class Dog {
+	private int id;
+	private String username;
+	private long longF;
+	private short shortF;
+	private boolean booleanF;
+	private double doubleF;
+	private BigDecimal bigDecimalF;
+	private Date dateF;
+	private Cat cat;
+}		
+```
 
  ## output
 ```
